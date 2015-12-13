@@ -1,0 +1,11 @@
+/*******************/
+*									/
+*		Instalación				/
+*									/
+/*******************/
+
+1. Descargar los archivos BaseDeDatosBibliotecaEscolar.dll y GestorBibliotecaEscolar.zip
+2. Importar a la base de datos el script BaseDeDatosBibliotecaEscolar.dll
+3. Extraer el archivo zip en un destino.
+4. Al entrar en la carpeta desde el servidor web debe aparecer una ventana de login.
+5. Si es así, la instalación esta completada.
